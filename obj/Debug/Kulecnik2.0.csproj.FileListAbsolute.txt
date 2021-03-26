@@ -8,3 +8,13 @@ C:\Programování\csharp\Kulecnik2.0\obj\Debug\Kulecnik2.0.csproj.GenerateResour
 C:\Programování\csharp\Kulecnik2.0\obj\Debug\Kulecnik2.0.csproj.CoreCompileInputs.cache
 C:\Programování\csharp\Kulecnik2.0\obj\Debug\Kulecnik2.0.exe
 C:\Programování\csharp\Kulecnik2.0\obj\Debug\Kulecnik2.0.pdb
+C:\Programing\GitProjects\firstProject\firstProject\bin\Debug\Kulecnik2.0.exe.config
+C:\Programing\GitProjects\firstProject\firstProject\bin\Debug\Kulecnik2.0.exe
+C:\Programing\GitProjects\firstProject\firstProject\bin\Debug\Kulecnik2.0.pdb
+C:\Programing\GitProjects\firstProject\firstProject\obj\Debug\Kulecnik2.0.csprojAssemblyReference.cache
+C:\Programing\GitProjects\firstProject\firstProject\obj\Debug\Kulecnik2._0.Form1.resources
+C:\Programing\GitProjects\firstProject\firstProject\obj\Debug\Kulecnik2._0.Properties.Resources.resources
+C:\Programing\GitProjects\firstProject\firstProject\obj\Debug\Kulecnik2.0.csproj.GenerateResource.cache
+C:\Programing\GitProjects\firstProject\firstProject\obj\Debug\Kulecnik2.0.csproj.CoreCompileInputs.cache
+C:\Programing\GitProjects\firstProject\firstProject\obj\Debug\Kulecnik2.0.exe
+C:\Programing\GitProjects\firstProject\firstProject\obj\Debug\Kulecnik2.0.pdb

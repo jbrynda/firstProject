@@ -13,8 +13,8 @@ namespace Kulecnik2._0
         public int ballHeight = 0;
         public int ballPosX = 0;
         public int ballPosY = 0;
-        public int moveStepX = 4;
-        public int moveStepY = 4;
+        public int moveStepX = 6;
+        public int moveStepY = 6;
         public Color ballColor;
         private Random rand = new Random();
         public int randomMove;
